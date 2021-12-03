@@ -1,0 +1,240 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+# MMMMMMMMMMMMMMMMMMMMMMMMMWXOo:,..       ...',;;;;;,,'..        ..;cd0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMMMMNk:.  .,:loddoc;,.          ..,:lodxxddoc;'. .,l0WMMMMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMMWk,  'lkKNWWWWNo..     ..,cokO0XNWWWWWWWWWWWN0d:. .c0WMMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMNo. 'dXWWWWWWWWW0doodxkOKXNWWWWWWWWWWWWWWWWWWWWWN0c. 'kWMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMWd. ,OWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNd. ,0MMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMN:  lNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWK; .dMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMNc  cNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW0, .kMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMO' .oNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW0:  cXMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMWO,  :0WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXo. .cXMMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMMMKl. .xNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWKd'  'xNMMMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMMMMWk. .oNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXd'   :KMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMNXWMMMMMMMMMMMMMMMMWk. .xWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW0:    cXMMMMMMMMMMMMMMMMMNXWMMMMMMMMM
+# MMMMNl.;lkKNMMMMMMMMMMMMMWl  cXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWK:    .kMMMMMMMMMMMMMWN0dc''kMMMMMMMMM
+# MMMM0,    .,cd0NWMMMMMMMMWd. :XWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWKl,.  '0MMMMMMMMMWXOo:'.    oWMMMMMMMM
+# MMMMO.        .':x0WMMMMMNl  lNWWWWWWNNNXXKKKK000KKKKXXXNNWWWWWWWO' .kMMMMMMNOo;.         lNMMMMMMMM
+# MMMMO.      ..    .;dKWMMX; .dWWXxc:;,'.................',;;:lONWX:  dWMMNOl'    ..       cNMMMMMMMM
+# MMMM0'      ;xxl'    .lKWO. .OWW0:..'',;::ccccccccccc::;;,'...oNWWo  cNNx;.   .;okd.      lWMMMMMMMM
+# MMMMX:       .;dOx;.   .lc. ;KWWWNXXXNWWWWWWWWWMMWWWWWWWWWNXXXNWWWk. 'o;    .lkkl'.      .dMMMMMMMMM
+# MMMMWo          .o0x'       lNWWNK0OkxxdoolllllllllllloodxkO0KXNWW0'      .cOk:.         '0MMMMMMMMM
+# MMMMM0'           'k0;      ,lc;'..                         ...,;ll.     .d0l.           cNMMMMMMMMM
+# MMMMMWo            .k0;                                                  oKc            'OMMMMMMMMMM
+# MMMMMMX:            ,0x.                                                ,0x.           .dWMMMMMMMMMM
+# MMMMMMM0,           .x0'                                                cKc            lNMMMMMMMMMMM
+# MMMMMMMM0;      .,,.'dx.         'ld:.                    .ldc.         ;Ko.   .',.  .lXMMMMMMMMMMMM
+# MMMMMMMMMKc.   'kNNX0kl.         lXWk.                    :KWO,          cx:,cxKNNKc'dNMMMMMMMMMMMMM
+# MMMMMMMMMMWk;..cKMMWOd0Kxc'.      ',.                      ',.          .:x0KxxXMMWx;kMMMMMMMMMMMMMM
+# MMMMMMMMMMMMNO;'dNWNkdKMMWXOo:'.                                    .,lxKWMMNkdKWW0:,kMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMM0,.:l::cdkKWMMMXkxdc,.                            .;oxx0WMMMN0xl::cc,.lNMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMW0,     ..;oOXWOlOMMNKkl;.                   .'cdOXWMNddXN0xc,...:o:;dNMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMWk.        .';ldkKNWMMMMNOxo:'..,;;;,'.  .,ldkKWMMMWNX0xdc,..    ,ok0WMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMWXx'            ...,:ldxOX0oxWWXkclkkdol:,lKWMKoxXKkdoc;'...        .loox0NMMMMMMMMMMMMM
+# MMMMMMMMMWKxdl,    ........      ...':d0NMMKllKN0xdol;:xKNWXkl,...      .........lkkdoldOXWMMMMMMMMM
+# MMMMMWXOdooxkx;.................   ':''dNMKccKMMMMWWNKkdoodo;.     ................;lxkxolox0NMMMMMM
+# MMN0xoodxkko:'................    .co;.,kO::0MMMMMMMMMMWNKOxl:'..  .,;'...............,cdkxdllokXWMM
+# OolldOOdc,...............     ..':ok0Kkl:';OWMMMMMMMMMMMMMMMWNKOxl;;ldoooc;...............;lxkxoclx0
+# xc:okKOo;...........    ...,cok0KNWMMMMWx:OWMMMMMMMMMMMMMMMMMMMMWWNK0kddddd:.  .''........':d0Od:;lO
+# MWKkoooxkkd:''::. ...,:lxOKXNWMMMMMMMMM0okWMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0Oxl;',loool,.,;:odl:cdONWM
+# MMMMWN0xoodkO0kdoloOKXNWMMMMMMMMWNXKKX0coNMMMWX0kxkkOKNWMMMMMMMMMMMMMMMMMMMMWNX0kdxxxOOxc'.   ;KMMMM
+# MMMMMMMMWKkdk0dxOxxOWMMMMMMMMMN0dc:clc;.':dOOo:;clclc:cxKNWMMMMMMMMMMMMMMMMMMMMXkxkOc:dodOx;. ,0MMMM
+# MMMMMMMMMMMWWWOdkOOKWMMMMMMMN0l,,cdoxOxc,..'',:ddllkKOo;;lx0NWWMMMMMMMMMMMMMMMMN0OOo. lNMMMN00XWMMMM
+# MMMMMMMMMMMMMMWOxXMMMMMMMMMXd;':dko;xXKk:''';dOd;:lkKxl;''',:ldkOKNWMMMMMMMMMMMMMWk.  :NMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMWOkNMMMMMMMXd,'ckOc,'lkd;''',d0d;'',lxoc,''''';cdxxddx0NWMMMMMMMMWO'  .dWMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMNOkNMMMMMNx,''l0kllc:ldl,'',o0Oxdol::xOd;'''',:dK0l'',c0WMMMMMMM0,  .oNMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMNOOWMMMMKc''';dKXkdc,;;,,'',l0Kkol:,:x0Ooc;'',,cxdl;''dNMMMMMMKo:cd0WMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMNO0WMMM0:,,,'':dkkd:,',;;,,';lxO0kc;cxO00Okoc;',:ll;;OWMMMMMXk0WMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMNO0WWXx::l:;;;;cdOkc',co:,,;;:ldxd:,,;;o0XXKkoc,;:,;lxOKNWXk0WMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMXOxoc:::ll;',,;;:lc,.,cc,'''',,:oc,''':dkkkxdo:cxkxoc::ldx0WMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMMXOO0KKOdoc;,''';ol;'..''''''',:lc,''';odoooloxKWMMWXK0Ok0WMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMMMMMMMMMWNKOxdllcc:,''''''''''''',,;::cloxk0XNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#
+#    We thought you'd never make it!
+#    We hope you feel right at home in this file...unless you're a disallowed subfolder.
+#    And since you're here, read up on our culture and team: https://distribucion-carnicos.herokuapp.com/#page-top
+#    There's even a bring your robot to work day.
+
+
+User-agent: Googlebot
+Allow: /calendar/ical/
+Allow: /.well-known/amphtml/apikey.pub
+Disallow: /account
+Disallow: /alumni
+
+Disallow: /api/v1/trebuchet
+Disallow: /calendar/
+Disallow: /disaster/lookup
+Disallow: /email/unsubscribe
+Disallow: /fix-it
+Disallow: /fixit
+Disallow: /forgot_password
+Disallow: /groups
+Disallow: /help/search
+Disallow: /help/feedback
+Disallow: /home/dashboard
+Disallow: /inbox
+Disallow: /logout
+
+Disallow: /messaging/ajax_already_messaged/
+Disallow: /my_listings
+Disallow: /skeleton$
+Disallow: /skeleton/
+
+Disallow: /signup_modal
+Disallow: /signed_out_modal.json
+Disallow: /.well-known/assetlinks.json
+Disallow: /device_id_bev_map
+Disallow: /help/search
+Disallow: /trips/upcoming
+Disallow: /trips/v1/
+Disallow: /update-your-browser
+Disallow: /reservation
+
+
+User-agent: Bingbot
+Allow: /calendar/ical/
+Allow: /.well-known/amphtml/apikey.pub
+Disallow: /account
+Disallow: /alumni
+
+Disallow: /api/v1/trebuchet
+Disallow: /calendar/
+Disallow: /disaster/lookup
+Disallow: /email/unsubscribe
+Disallow: /fix-it
+Disallow: /fixit
+Disallow: /forgot_password
+Disallow: /groups
+Disallow: /help/search
+Disallow: /help/feedback
+Disallow: /home/dashboard
+Disallow: /inbox
+Disallow: /logout
+
+Disallow: /messaging/ajax_already_messaged/
+Disallow: /my_listings
+Disallow: /skeleton$
+Disallow: /skeleton/
+
+Disallow: /signup_modal
+Disallow: /signed_out_modal.json
+Disallow: /.well-known/assetlinks.json
+Disallow: /device_id_bev_map
+Disallow: /help/search
+Disallow: /trips/upcoming
+Disallow: /trips/v1/
+Disallow: /update-your-browser
+Disallow: /reservation
+
+
+User-agent: YandexBot
+Allow: /calendar/ical/
+Allow: /.well-known/amphtml/apikey.pub
+Disallow: /account
+Disallow: /alumni
+
+Disallow: /api/v1/trebuchet
+Disallow: /calendar/
+Disallow: /disaster/lookup
+Disallow: /email/unsubscribe
+Disallow: /fix-it
+Disallow: /fixit
+Disallow: /forgot_password
+Disallow: /groups
+Disallow: /help/search
+Disallow: /help/feedback
+Disallow: /home/dashboard
+Disallow: /inbox
+Disallow: /logout
+
+Disallow: /messaging/ajax_already_messaged/
+Disallow: /my_listings
+Disallow: /skeleton$
+Disallow: /skeleton/
+
+Disallow: /signup_modal
+Disallow: /signed_out_modal.json
+Disallow: /.well-known/assetlinks.json
+Disallow: /device_id_bev_map
+Disallow: /help/search
+Disallow: /trips/upcoming
+Disallow: /trips/v1/
+Disallow: /update-your-browser
+Disallow: /reservation
+
+
+User-agent: Baiduspider
+Allow: /calendar/ical/
+Allow: /.well-known/amphtml/apikey.pub
+Disallow: /account
+Disallow: /alumni
+
+Disallow: /api/v1/trebuchet
+Disallow: /calendar/
+Disallow: /disaster/lookup
+Disallow: /email/unsubscribe
+Disallow: /fix-it
+Disallow: /fixit
+Disallow: /forgot_password
+Disallow: /groups
+Disallow: /help/search
+Disallow: /help/feedback
+Disallow: /home/dashboard
+Disallow: /inbox
+Disallow: /logout
+
+Disallow: /messaging/ajax_already_messaged/
+Disallow: /my_listings
+Disallow: /skeleton$
+Disallow: /skeleton/
+
+Disallow: /signup_modal
+Disallow: /signed_out_modal.json
+Disallow: /.well-known/assetlinks.json
+Disallow: /device_id_bev_map
+Disallow: /help/search
+Disallow: /trips/upcoming
+Disallow: /trips/v1/
+Disallow: /update-your-browser
+Disallow: /reservation
+
+
+User-Agent: *
+Allow: /calendar/ical/
+Allow: /.well-known/amphtml/apikey.pub
+Disallow: /account
+Disallow: /alumni
+
+Disallow: /api/v1/trebuchet
+Disallow: /calendar/
+Disallow: /disaster/lookup
+Disallow: /email/unsubscribe
+Disallow: /fix-it
+Disallow: /fixit
+Disallow: /forgot_password
+Disallow: /groups
+Disallow: /help/search
+Disallow: /help/feedback
+Disallow: /home/dashboard
+Disallow: /inbox
+Disallow: /logout
+
+Disallow: /messaging/ajax_already_messaged/
+Disallow: /my_listings
+Disallow: /skeleton$
+Disallow: /skeleton/
+
+Disallow: /signup_modal
+Disallow: /signed_out_modal.json
+Disallow: /.well-known/assetlinks.json
+Disallow: /device_id_bev_map
+Disallow: /help/search
+Disallow: /trips/upcoming
+Disallow: /trips/v1/
+Disallow: /update-your-browser
+Disallow: /reservation
+
+
+Sitemap: https://distribucion-carnicos.herokuapp.com/#page-top
