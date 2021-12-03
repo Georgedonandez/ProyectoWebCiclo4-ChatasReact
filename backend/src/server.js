@@ -19,7 +19,7 @@ const contactEmail = nodemailer.createTransport({
   service: 'hotmail',
   auth: {
     user: "edhernandez65@hotmail.com",
-    pass: "AMD601214#MSN",
+    pass: "MAX601214#MSN",
   },
 });
 
