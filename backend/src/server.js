@@ -18,8 +18,8 @@ app.listen(app.get('port'), function () {
 const contactEmail = nodemailer.createTransport({
   service: 'hotmail',
   auth: {
-    user: "edhernandez65@hotmail.com",
-    pass: "AMD601214#MSN",
+    user: "*************",
+    pass: "*************",
   },
 });
 
