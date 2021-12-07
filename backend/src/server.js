@@ -18,8 +18,8 @@ app.listen(app.get('port'), function () {
 const contactEmail = nodemailer.createTransport({
   service: 'hotmail',
   auth: {
-    user: "*************",
-    pass: "*************",
+    user: "*************", /*URL de su cuenta Microsoft*, p. e. mycount@hotmail.com*/
+    pass: "*************", /*Contraseña de su cuenta Microsoft*/
   },
 });
 
