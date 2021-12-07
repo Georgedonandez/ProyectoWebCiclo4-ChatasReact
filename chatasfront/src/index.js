@@ -7,7 +7,8 @@ import App from './App.jsx';
 import "./components/seccionProductos/src/index.css"
 import "bootstrap/dist/css/bootstrap.min.css"; /* npm install bootstrap */
 import reportWebVitals from './reportWebVitals';
-Axios.defaults.baseURL = 'http://localhost:4000';
+//Axios.defaults.baseURL = 'http://localhost:4000';
+Axios.defaults.baseURL = 'https://chatasreactweb.herokuapp.com';
 
 ReactDOM.render(
   <React.StrictMode>

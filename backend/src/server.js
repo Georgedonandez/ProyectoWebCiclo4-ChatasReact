@@ -21,7 +21,7 @@ const contactEmail = nodemailer.createTransport({
     user: "edhernandez65@hotmail.com",
     pass: "AMD601214#MSN",
   },
-});GIT
+});
 
 contactEmail.verify((error) => {
   if (error) {

@@ -1,8 +1,8 @@
 {
-  "name": "servidor",
+  "name": "chatas-backend",
   "version": "0.0.1",
   "description": "Api para chatas",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/index.js",
@@ -11,7 +11,7 @@
     "devbabel2": "nodemon src/server.js --exec babel-node",
     "start": "node src/index.js"
   },
-  "author": "",
+  "author": "Team E1.G11 Misión TIC 2022 - UTP",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -23,7 +23,8 @@
     "mongoose-unique-validator": "^3.0.0",
     "morgan": "^1.10.0",
     "nodemailer": "^6.7.2",
-    "nodemon": "^2.0.14"
+    "nodemon": "^2.0.14",
+    "semver": "^7.3.5"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
@@ -32,7 +33,29 @@
     "@babel/preset-env": "^7.16.0"
   },
   "engines": {
-  "node": "14.7.6 ",
-  "npm": "6.14.15"
-  }
+    "node": "14.17.6 ",
+    "npm": "6.14.15"
+  },
+  "contributors": [
+      {
+      "name": "Stephanie Rodriguez",
+      "email": "mttsstep87@hotmail.com"
+      },
+      {
+      "name": "Julio Díaz",
+      "email": "JADT_@hotmail.com"
+      },
+      {
+      "name": "Juan Ardila",
+      "email": "jfam8901@hotmail.com"
+      },      
+      {
+      "name": "Henry Velásquez",
+      "email": "vhenryx@hotmail.com"
+      },
+      {
+      "name": "Jorge Hernández",
+      "email": "edhernandez65@hotmail.com"
+      }
+    ]
 }

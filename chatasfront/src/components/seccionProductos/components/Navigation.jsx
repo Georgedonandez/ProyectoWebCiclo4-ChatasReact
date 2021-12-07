@@ -29,7 +29,7 @@ export default function Navigation() {
             </Offcanvas.Header>
             <Offcanvas.Body>
               <Nav className="justify-content-end flex-grow-1 pe-3">
-                <Nav.Link href="http://localhost:3000/">Inicio</Nav.Link>
+                <Nav.Link href="https://chatasreactweb-front.herokuapp.com/">Inicio</Nav.Link>
                 <NavDropdown title="Productos" id="offcanvasNavbarDropdown">
                   <NavDropdown.Item href="#action2">
                     <i class="fas fa-hamburger"></i> Res{" "}
