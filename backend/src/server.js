@@ -38,7 +38,7 @@ router.post("/contact", (req, res) => {
   const message = req.body.message; 
   const mail = {
     from: name,
-    to: "edhernandez65@hotmail.com",
+    to: "************", /*URL de la cuenta donde deben llegar los mensajes*/
     subject: "Formulario de contacto enviado desde Web Chatas",
     html: `<p>Name: ${name}</p>
            <p>Email: ${email}</p>
